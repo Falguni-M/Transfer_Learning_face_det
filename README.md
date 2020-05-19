@@ -1,4 +1,4 @@
-# Transfer_Learning_face_det
+# Transfer_Learning_face_det_with_ResNet50
 
 This model is based on the concept called Transfer Learning.
 
