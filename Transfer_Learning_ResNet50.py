@@ -96,22 +96,6 @@ model = Model(inputs=ResNet50.input, outputs=FC_Head)
 print(model.summary())
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
 
 # In[21]:
@@ -252,13 +236,6 @@ for i in range(0,3):
 cv2.destroyAllWindows()
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
